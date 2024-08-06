@@ -1,0 +1,58 @@
+# Ignore system files
+AppData/
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore user-specific files
+.android/
+.cache/
+.conda/
+.condarc
+.continuum/
+.docker/
+.eclipse/
+.gitconfig
+.idlerc/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.keras/
+.lesshst
+.matplotlib/
+.p2/
+.spyder-py3/
+.vscode/
+
+# Ignore unnecessary directories
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Ignore virtual environments
+venv/
+anaconda3/
+
+# Ignore other files
+*.log
+*.blf
+*.regtrans-ms
+ntuser.dat
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
